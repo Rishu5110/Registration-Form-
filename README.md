@@ -9,7 +9,7 @@ This project is designed to allow user registration and display registered users
 ## Folder Structure
 
 ```
-backend-project
+registration-form-
 |-- backend
 |   |-- (Backend server files)
 |
@@ -71,7 +71,7 @@ The server will run on `http://localhost:3000` (default port).
 
 Navigate to the `react_frontend` folder:
 ```bash
-cd ../react_frontend
+cd ../frontend
 ```
 
 Install dependencies:
